@@ -12,4 +12,12 @@
  cd Pumpkin-NGL-Spammer 
  python pumpkin-ngl-spammer.py 
  ``` 
+
+ ## Disclaimer  
+  
+  |Tool was made for Educational purposes|  
+  |-------------------------------------------------|  
+    
+  By using this Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.  
+ 
    
