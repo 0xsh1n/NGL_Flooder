@@ -13,7 +13,7 @@
  ``` 
  git clone https://github.com/kinxyz/NGL_Flooder
  cd NGL_Flooder
- python pumpkin-ngl-spammer.py 
+ python ngl_flooder.py
  ``` 
 
  ## Disclaimer  
