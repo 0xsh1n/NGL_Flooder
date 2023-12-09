@@ -1,5 +1,5 @@
 <h3 align="center">   
-   Pumpkin NGL Spammer 
+   NGL Flooder
    </h3> 
  <p align="center"> 
  A tool that can flood a user's NGL inbox using their username
