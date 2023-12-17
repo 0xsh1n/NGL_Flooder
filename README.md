@@ -11,7 +11,7 @@
  <h2>Installation</h2> 
   
  ``` 
- git clone https://github.com/0xshinn/NGL_Flooder
+ git clone https://github.com/0xsh1n/NGL_Flooder
  cd NGL_Flooder
  python ngl_flooder.py
  ``` 
